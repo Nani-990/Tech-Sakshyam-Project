@@ -1,0 +1,8 @@
+Package is :
+The required packages for the above AI Resume Screening & Candidate Ranking System are:
+
+Required Python Packages:
+Streamlit – For building the web application
+Pandas – For handling and displaying data
+PyPDF2 – For extracting text from PDF resumes
+Scikit-learn – For vectorization (TF-IDF) and similarity calculation
