@@ -1,0 +1,33 @@
+Steps to implement the project is :
+
+The required packages for the above AI Resume Screening & Candidate Ranking System are:
+
+Required Python Packages:
+Streamlit – For building the web application
+Pandas – For handling and displaying data
+PyPDF2 – For extracting text from PDF resumes
+Scikit-learn – For vectorization (TF-IDF) and similarity calculation
+Install the Required Packages:
+Run the following command in your terminal or command prompt to install all dependencies:
+pip install streamlit pandas PyPDF2 scikit-learn
+Once installed, you can run the Streamlit app using:
+streamlit run your_script.py
+Steps to Implement the AI Resume Screening & Candidate Ranking System
+Follow these steps to set up and run the resume screening system on your local machine:
+Step 1: Install Required Packages
+Open your terminal or command prompt and run the following command to install all required Python packages:
+pip install streamlit pandas PyPDF2 scikit-learn
+Step 2: Create a Python Script
+Open a code editor (e.g., VS Code, PyCharm, or Notepad++).
+Create a new Python file, e.g., resume_ranker.py.
+Copy and paste the full code provided in the previous response into this file.
+Step 3: Run the Streamlit Application
+After saving the file, navigate to the directory where your resume_ranker.py script is located using the terminal or command prompt.
+Run the following command:
+streamlit run resume_ranker.py
+Step 4: Use the Web Application
+A browser window will open automatically with the Streamlit interface.
+Enter the job description in the text box.
+Upload PDF resumes by clicking the "Upload PDF files" button.
+View the ranked results – The system will rank the resumes based on how well they match the job description.
+Check "Best Matches" – If a resume scores above the threshold (default: 0.5), it will be highlighted as a "✅ Good Match".
