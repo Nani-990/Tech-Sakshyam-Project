@@ -119,9 +119,9 @@ resume-screening/
 
 ## 👨‍💻 **Author**  
 **Your Name**  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-📧 [Email](mailto:youremail@example.com)  
-📂 [GitHub](https://github.com/yourusername)  
+🔗 [LinkedIn](www.linkedin.com/in/nandyala-pavan-rakesh-28a0192b8)  
+📧 [Email](mailto:pavanrakesh9990@gmail.com)  
+📂 [GitHub](https://github.com/Nani-990/Tech-Sakshyam-Project/commits?author=Nani-990)  
 
 --
 
