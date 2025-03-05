@@ -85,23 +85,6 @@ streamlit run resume_screening.py
 🔹 **Cosine Similarity** – Measures how similar two text documents (job description & resume) are.  
 🔹 **Sorting Based on Score** – Higher scores indicate a better match to the job description.  
 
-
-
-## 📌 **Folder Structure**  
-```
-resume-screening/
-│── resume_screening.ipynb   # Jupyter Notebook file
-│── resume_screening.py      # Converted Python script
-│── requirements.txt         # List of dependencies
-│── README.md                # Documentation
-└── data/
-    ├── sample_resume_1.pdf  # Sample resumes
-    ├── sample_resume_2.pdf
-    ├── sample_resume_3.pdf
-```
-
----
-
 ## 📜 **Example Output**  
 
 ### **Job Description Input:**  
